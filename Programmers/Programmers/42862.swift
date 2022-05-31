@@ -57,3 +57,4 @@ func solution(_ n:Int, _ lost:[Int], _ reserve:[Int]) -> Int { // n : 학생 수
 //    }
 //    return (n - lostSet.count)
 //}
+
