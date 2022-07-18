@@ -7,5 +7,5 @@
 
 import Foundation
 
-solution([4,7,12], [true,false,true])
+print(solution([1, 2, 3, 4], [-3, -1, 0, 2]))
 
