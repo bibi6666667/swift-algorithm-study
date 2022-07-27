@@ -7,8 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		00501365288F87E60057A729 /* KingChobo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00501364288F87E60057A729 /* KingChobo.swift */; };
 		00D3CE8928858427009B1D24 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D3CE8828858427009B1D24 /* main.swift */; };
 		00D3CE9028858440009B1D24 /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D3CE8F28858440009B1D24 /* Stack.swift */; };
+		00E42563288EBE17008E7D1D /* 9012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00E42562288EBE17008E7D1D /* 9012.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,9 +26,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		00501364288F87E60057A729 /* KingChobo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KingChobo.swift; sourceTree = "<group>"; };
 		00D3CE8528858427009B1D24 /* BaekJoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BaekJoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		00D3CE8828858427009B1D24 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		00D3CE8F28858440009B1D24 /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
+		00E42562288EBE17008E7D1D /* 9012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9012.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 			children = (
 				00D3CE8828858427009B1D24 /* main.swift */,
 				00D3CE8F28858440009B1D24 /* Stack.swift */,
+				00E42562288EBE17008E7D1D /* 9012.swift */,
+				00501364288F87E60057A729 /* KingChobo.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -124,6 +130,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				00D3CE9028858440009B1D24 /* Stack.swift in Sources */,
+				00501365288F87E60057A729 /* KingChobo.swift in Sources */,
+				00E42563288EBE17008E7D1D /* 9012.swift in Sources */,
 				00D3CE8928858427009B1D24 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
